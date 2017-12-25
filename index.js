@@ -1,1 +1,1 @@
-console.log('amodify a issue')
+console.log('modify a bug')
