@@ -1,3 +1,4 @@
 console.log('modify a bug');
-console.log('test');
+consle.log('test');
 let a = [];
+let arr = [];
