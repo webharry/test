@@ -8,3 +8,6 @@ a = [{
 const foo = function() {
     console.log(123);
 }
+const f1 = function() {
+	let a = [];
+}
