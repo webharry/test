@@ -1,5 +1,5 @@
 console.log('modify a bug');
-console.log('test');
+consle.log('test');
 let a = [];
 a = [{
     name:'hello',
