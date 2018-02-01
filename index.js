@@ -11,3 +11,6 @@ const foo = function() {
 const f1 = function() {
 	let a = [];
 }
+function Foo() {
+    this.name= 'user';
+}
